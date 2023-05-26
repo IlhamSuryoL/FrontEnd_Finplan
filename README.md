@@ -10,7 +10,6 @@ Cara Menjalankan Website
 - Browser akan membuka berkas HTML dan menerapkan gaya CSS dan Bootstrap.
 
 
-
 Hasil 
 - ![2023-05-26 (7)](https://github.com/IlhamSuryoL/FrontEnd_Finplan/assets/115559201/c55f8671-c437-4231-b788-0c507708f299)
 - ![2023-05-26 (8)](https://github.com/IlhamSuryoL/FrontEnd_Finplan/assets/115559201/b8656f75-e908-4fe0-a288-fa23f8a793f5)
